@@ -1,22 +1,13 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: My first blog post
+date: "2020-04-15T17:04:32.169Z"
+description: Hello World!
 ---
 
-This is my first post on my new fake blog! How exciting!
+###I did it!!!
 
-I'm sure I'll write a lot more interesting things in the future.
+Summer season has literally begun! After yesterday's announcement of lockdown extension all over India. I decided to make productive use of my time. After mentally taking decision to start writing blog time and time again I actually got my hands dirty and started with this blog.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+I will be writing about new things that I learn. Bascially I will be writing related to coding, stuffs i am learning and any insightful articles I come across the internet.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+Very excited for this amazing journey! Keep watching this space for more. Thank you for your time!
