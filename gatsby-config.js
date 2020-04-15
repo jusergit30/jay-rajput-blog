@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jay Rajput's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jay Rajput`,
+      summary: `who lives and works in Pune, India.  He also likes reading, writing, learning new stuffs and is a big Marvel movies fan`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `This is the personal blog for Jay Rajput`,
+    siteUrl: `https://jayrajput.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jay_r30`,
     },
   },
   plugins: [
